@@ -7,7 +7,7 @@ https://github.com/AnirudhDas/GenericStackView
 ###### How to run the app?
 1. Open CredAssignment.xcworkspace
 2. This contains both the framework project as well as the sample app. Make sure to select the SampleApp target before running.
-3. There you go! You can see the generic stack view in action.
+3. There you go! You can see the generic stack view in action. ✌🏻
 ￼
 ###### Development Tools used:
 1. Xcode 11.3.1
@@ -37,3 +37,9 @@ I have created the generic stack view as a Dynamic Framework here. So that we ca
 3. The same behaviour follows for remaining views.
 4. Now, we can click and collapsed view, and it expands, causing the very next view to collapse and peek from bottom. While the remaining views are hidden. And the previous views are still collapsed.
 5. All stack views components should have two states (Expanded and collapsed). Clicking on any collapsed view toggles its state i.e. it expands and the other expanded view, collapses.
+
+###### Where to go from here?
+
+Currently, I have created the generic stackview as a dynamic framework. Going forward, we can add Cocoapods or Carthage support to it.
+
+## Happy Coding! 👍🏻
